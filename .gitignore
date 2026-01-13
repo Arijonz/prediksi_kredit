@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model files (opsional, lihat catatan)
+model/*.pkl
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
